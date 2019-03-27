@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="git-demo">
+    <Basepaths>/v1/git-mock</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1553700996865</CreatedAt>
+    <CreatedBy>rankesh.nath@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>git-demo</DisplayName>
+    <LastModifiedAt>1553700996865</LastModifiedAt>
+    <LastModifiedBy>rankesh.nath@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:a2960e55540264ec36bc78234f634e1ad3f3a25906435c94e9ee95e44ff791b588f66aaca992a0b5e83ad27152ab5bb2fa9119ba3bf409014557f1a49db791c4</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
